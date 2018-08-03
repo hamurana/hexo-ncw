@@ -16,6 +16,7 @@ url: /
 root: "/hexo/"
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+baseurl: ""
 
 # Directory
 source_dir: source
