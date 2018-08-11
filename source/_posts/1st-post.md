@@ -7,5 +7,5 @@ tags:
 {% asset_img gouzi.jpeg 狗子 %}
 
 <p align="center">
-Here we go my 1st post.
+狗子，我们走！
 </p>
