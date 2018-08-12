@@ -1,5 +1,5 @@
 ---
-title: use-browser-to-verify-xpath-locator
+title: Use browser to verify xpath locator
 layout: post
 date: 2018-08-03 07:55:09
 tags:
